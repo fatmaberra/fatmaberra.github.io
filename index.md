@@ -24,6 +24,3 @@ permalink: /
   </ul>
 </div>
 ---
-* 💻 [G---itHub Profile](https://github.com/berrakurtkaya)
-* 📄 [Presentation Page (Week 5)](./presentation.html)
-* ✍️ [Engineering Blog (Week 8)](./blog.html)
